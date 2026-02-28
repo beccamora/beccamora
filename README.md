@@ -4,7 +4,21 @@
 - Generative AI & Deepfake Detection
 - Autonomous Robotics
 - Machine Learning 
-- Computer Vision & Perception 
+- Computer Vision & Perception
+
+## 🚀 Project Highlights 
+### Autonomous Navigation System
+Designed an end-to-end perception-to-control pipeline combining computer vision, neural networks, and PID control.  
+> Achieved >90% lane-following accuracy.
+
+### Dialogue Emotion Detection
+Reproduced and evaluated a NLP commonsense-guided architecture through structured experimentation.
+
+### Smart Locker System  
+Designed and built a smart locker system for secure, automated package storage and retrieval. Developed firmware and control logic for user authentication, electronic locking mechanisms, and real-time status monitoring.
+
+## 🚧 Currently 
+Building a deepfake detection system focused on robustness and generalization across evolving generative models.
 
 ## 🛠 Tech Stack
 
